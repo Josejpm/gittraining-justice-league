@@ -9,5 +9,5 @@ Pueden hacer lo que quieran...
 ### Actualizado desde github
 Este es un mensaje editado completamente desde github
 
-### Cambios locales
+### Cambios locales modificados en github
 Este cambio se hace desde el repo local
