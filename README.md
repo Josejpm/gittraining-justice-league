@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde github
 Este es un mensaje editado completamente desde github
+
+### Cambios locales
+Este cambio se hace desde el repo local
